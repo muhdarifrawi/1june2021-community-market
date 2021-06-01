@@ -1,0 +1,5 @@
+# ignore venv
+django-venv
+
+# ignore env files
+.env
